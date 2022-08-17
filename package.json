@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "less": "^4.1.3",
+    "less-loader": "^11.0.0"
+  },
+  "dependencies": {
+    "@element-plus/icons": "^0.0.11"
+  }
+}
